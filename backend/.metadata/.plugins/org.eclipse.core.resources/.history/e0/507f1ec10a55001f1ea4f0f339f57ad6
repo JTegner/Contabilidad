@@ -1,0 +1,5 @@
+package com.contabilidad.service;
+
+public class ClienteService {
+
+}

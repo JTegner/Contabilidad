@@ -1,0 +1,5 @@
+package com.contabilidad.nf.domain.model;
+
+public class Cliente {
+
+}
